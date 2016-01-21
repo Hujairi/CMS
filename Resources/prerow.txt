@@ -1,0 +1,1 @@
+<tr><td align="center">mednum</td><td align="center">medname</td><td align="center">meddesc</td><td align="center">medintake</td><td align="center">midfreq</td><td align="center">meddur</td></tr>
